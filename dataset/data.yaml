@@ -1,0 +1,16 @@
+path: /Users/cleber/PycharmProjects/Projeto_Integrador/dataset
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 8
+names:
+  0: cachorro
+  1: frango
+  2: galinha
+  3: galo
+  4: ovos
+  5: pato
+  6: pintinho
+  7: rato

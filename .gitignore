@@ -1,0 +1,42 @@
+
+# Ambiente virtual Python
+venv/
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Modelos de inteligência artificial
+*.pt
+*.pth
+*.onnx
+
+# Datasets
+datasets/
+runs/
+*.pt
+venv/
+.venv/
+__pycache__/
+runs/
+
+# Videos
+*.mp4
+*.mov
+*.avi
+
+# Modelos YOLO
+*.pt
+*.pth
+*.onnx
+
+# Ambiente Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Resultados de treinamento
+runs/
+
