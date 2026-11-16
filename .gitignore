@@ -40,3 +40,16 @@ __pycache__/
 # Resultados de treinamento
 runs/
 
+
+# Dataset V2 - manter local
+DatasetV2/
+
+# Resultados do treinamento V2
+runsV2/
+
+# Arquivos do macOS
+.DS_Store
+
+# Configurações locais do PyCharm
+.idea/
+
