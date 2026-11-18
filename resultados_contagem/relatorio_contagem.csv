@@ -1,0 +1,4 @@
+﻿imagem,confianca_minima,total_aves_detectadas,contagem_por_classe,arquivo_resultado
+imagem.jpeg,0.1,15,galinha: 12; galo: 3,/Users/cleber/PycharmProjects/Projeto_Integrador/resultados_contagem/imagem_conf_0.10.jpg
+imagem.jpeg,0.25,12,galinha: 10; galo: 2,/Users/cleber/PycharmProjects/Projeto_Integrador/resultados_contagem/imagem_conf_0.25.jpg
+imagem.jpeg,0.4,10,galinha: 9; galo: 1,/Users/cleber/PycharmProjects/Projeto_Integrador/resultados_contagem/imagem_conf_0.40.jpg
